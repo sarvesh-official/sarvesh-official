@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/sarvesh-official/sarvesh-official/blob/output/github-contribution-grid-snake.svg" />
 
 
 ###
