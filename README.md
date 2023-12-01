@@ -68,8 +68,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sarvesh-official/sarvesh-official/main/snake.svg" alt="Snake animation" />
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" />
 
 
 ###
