@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/sarvesh-official/sarvesh-official/blob/output/github-contribution-grid-snake.svg" />
+  ![Snake animation](https://github.com/sarvesh-official/sarvesh-official/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
