@@ -1,11 +1,12 @@
 <h2 align="left">Hi there 👋, I'm Sarvesh!<br><br>A Web Developer & Cyber Security Enthusiast 💻🕵️🔐<br><br>Here's what you'll find in my repositories:<br><br>Personal projects: Demonstrating my technical skills and creativity. 💡<br><br>Blog posts: Insights and knowledge on various tech topics. 🧠<br><br>Open-source contributions: Giving back to the community and collaborating with fellow developers. 💪<br><br>I believe in continuous learning and growth, and this repository reflects that journey. 📈<br><br>Join me on this adventure! 🚀</h2>
 
 ###
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-official&theme=radical&hide_border=false)<br/>
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-official&theme=radical&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-official&theme=radical&hide_border=false" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
