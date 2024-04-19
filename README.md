@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋, I'm Sarvesh!<br><br>A Web Developer & Cyber Security Enthusiast 💻🕵️🔐<br><br>Here's what you'll find in my repositories:<br><br>Personal projects: Demonstrating my technical skills and creativity. 💡<br><br>Blog posts: Insights and knowledge on various tech topics. 🧠<br><br>Open-source contributions: Giving back to the community and collaborating with fellow developers. 💪<br><br>I believe in continuous learning and growth, and this repository reflects that journey. 📈<br><br>Join me on this adventure! 🚀</h2>
+<h2 align="left">Hi there 👋, I'm Sarvesh!<br><br>A Web Developer & Cyber Security Enthusiast 💻🕵️🔐<br><br>Here's what you'll find in my repositories:<br><br>Personal projects: Demonstrating my technical skills and creativity. 🧠<br><br>Open-source contributions: Giving back to the community and collaborating with fellow developers. 💪<br><br>I believe in continuous learning and growth, and this repository reflects that journey. 📈<br><br>Join me on this adventure! 🚀</h2>
 
 ###
 
