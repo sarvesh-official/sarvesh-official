@@ -1,5 +1,19 @@
-<h2 align="left">Hi there 👋, I'm <a href="https://www.sarvee.dev/" target="_blank">Sarvesh!</a> <br><br>A Web Developer & Cyber Security Enthusiast 💻🕵️🔐<br><br>Here's what you'll find in my repositories:<br><br>Personal projects: Demonstrating my technical skills and creativity. 🧠<br><br>Open-source contributions: Giving back to the community and collaborating with fellow developers. 💪<br><br>I believe in continuous learning and growth, and this repository reflects that journey. 📈<br><br>Join me on this adventure! 🚀</h2>
-<div align="center">
+# Hi there 👋, I'm Sarvesh!
+
+## A Web Developer & Cyber Security Enthusiast 💻🕵️🔐
+
+### 🌐 [Visit my Portfolio](https://sarvee.dev)
+
+Welcome to my GitHub! Here’s a glimpse into what you’ll find in my repositories:
+
+### 🚀 **Personal Projects**
+Explore my creative and technical prowess through a variety of personal projects. These showcase my ability to turn ideas into reality, using a range of technologies and frameworks.
+
+### 🤝 **Open-Source Contributions**
+I believe in the power of collaboration and giving back to the community. Check out my contributions to open-source projects and see how I work with other developers to build something amazing.
+
+### 📚 **Continuous Learning**
+My journey is one of constant growth and learning. This repository is a testament to my dedication to expanding my knowledge and honing my skills.
 
   <a href="https://github.com/sarvesh-official/sarvesh-official/stargazers">
     <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-official&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Stats Graph" height="150" />
@@ -20,7 +34,7 @@
 * **Personal projects:** Showcasing my technical skills and creativity. 
 * **Open-source contributions:** Giving back to the community and collaborating with fellow developers. 
 
-### Explore my journey:
+###  🔗 **Explore my journey**
 
 * **[Portfolio](https://www.sarvee.dev/)**  -  Take a deeper dive into my projects and experience. 
 * **[YouTube](https://www.youtube.com/c/tamilcybersec)** - Learn about cybersecurity with me!  
