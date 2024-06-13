@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarvesh!
 
-## A Web Developer & Cyber Security Enthusiast 💻🕵️🔐
+<h2> A Web Developer & Cyber Security Enthusiast 💻🕵️🔐</h2>
 
 ### 🌐 [Visit my Portfolio](https://sarvee.dev)
 
