@@ -38,7 +38,7 @@ My journey is one of constant growth and learning. This repository is a testamen
 
 * **[Portfolio](https://www.sarvee.dev/)**  -  Take a deeper dive into my projects and experience. 
 * **[YouTube](https://www.youtube.com/c/tamilcybersec)** - Learn about cybersecurity with me!  
-* **[Social Links](https://www.sarvee.dev/contact)** - Connect with me on various platforms.  
+* **[Social Links](https://www.sarvee.dev/contact-me)** - Connect with me on various platforms.  
 
 <br>
 
