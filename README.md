@@ -1,78 +1,136 @@
-# Hi there 👋, I'm Sarvesh!
+# 👋 Hey, I'm Sarvesh  
 
-## A Web Developer & Cyber Security Enthusiast 💻🕵️🔐
-
-### 🌐 [Visit my Portfolio](https://sarvee.dev)
-
-Welcome to my GitHub! Here’s a glimpse into what you’ll find in my repositories:
+🚀 **Building AI-powered products used by 3k+ users**  
+💻 Full Stack Engineer | AI Systems | Real-time Apps  
+⚡ Ex-SDE Intern @ Lowe’s | Founding Engineer @ Pallo  
 
 ---
 
-### 👨‍💻 About Me
-
-Currently, I'm working as an **SDE Intern at Lowe's India**, where I contribute to building scalable software and solving real-world problems.  
-I'm passionate about blending **web development** and **cybersecurity** to create secure and efficient systems.
-
----
-
-### 🚀 Personal Projects
-
-Explore my creative and technical prowess through a variety of personal projects. These showcase my ability to turn ideas into reality using a range of technologies and frameworks.
+![Profile Views](https://komarev.com/ghpvc/?username=sarvesh-official)
+![GitHub followers](https://img.shields.io/github/followers/sarvesh-official?style=social)
+![GitHub stars](https://img.shields.io/github/stars/sarvesh-official?style=social)
 
 ---
 
-### 🤝 Open-Source Contributions
+## 🧠 What I Do
 
-I believe in the power of collaboration and giving back to the community. Check out my contributions to open-source projects and see how I work with other developers to build something amazing.
+I build **production-grade systems**, not just projects.
 
----
-
-### 📚 Continuous Learning
-
-My journey is one of constant growth and learning. This repository is a testament to my dedication to expanding my knowledge and honing my skills.
-
----
-
-<div align="center">
-  <a href="https://github.com/sarvesh-official/sarvesh-official/stargazers">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-official&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Stats Graph" height="150" />
-  </a>
-  <a href="https://github.com/sarvesh-official/sarvesh-official/commits">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-official&theme=radical&hide_border=false" alt="Commit Streak Stats" height="150" />
-  </a>
-  <a href="https://github.com/sarvesh-official/sarvesh-official/languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top Languages" height="150" />
-  </a>
-</div>
+- ⚡ Ship AI-powered apps with real users  
+- 🧩 Design scalable backend + system architecture  
+- 🤖 Work with LLMs (multi-provider + fallback systems)  
+- 🔄 Build real-time systems (WebSockets, Supabase Realtime)  
 
 ---
 
-### 🔗 Explore My Journey
+## 🏗️ Featured Work
 
-- **[Portfolio](https://www.sarvee.dev/)** – Dive deeper into my work, experience, and blog  
-- **[YouTube - TamilCyberSec](https://www.youtube.com/c/tamilcybersec)** – Learn cybersecurity in Tamil  
-- **[Contact Me](https://www.sarvee.dev/contact-me)** – Connect with me on various platforms  
+### 🚀 Pallo (AI Learning Platform)
+- Built AI document editor (pagination + PDF export)  
+- Designed **LLM fallback architecture** → improved reliability  
+- Real-time collaboration (study groups, quizzes)  
+- 📈 Impact: **3k+ users, 500+ DAU**
 
 ---
 
-### 🛠️ Technologies I Use
+### 📊 MetricLens
+- Converts PostHog analytics → Slack insights  
+- AWS EC2 + PM2 deployment  
+- Focus: observability + decision-making  
+
+---
+
+### 🧠 Piper AI
+- AI tutor with document chat + OCR  
+- Course generation + quizzes  
+- Built with Next.js + LangChain  
+
+---
+
+### 💬 Roomble
+- Realtime room-based chat system  
+- WebSockets + multi-user sync  
+
+---
+
+### ⚡ Kill Switch (VS Code Extension)
+- Kill processes running on ports instantly  
+- Published on VS Code Marketplace  
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
 </div>
 
 ---
 
+## 📈 Impact
+
+- 🚀 3k+ users globally  
+- ⚡ 500+ daily active users  
+- 📊 +60% test coverage (Lowe’s)  
+- 🧹 Reduced duplication 13% → 2.5%  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/sarvesh-official">
+    <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-official&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  </a>
+  <a href="https://github.com/sarvesh-official">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-official&theme=radical&hide_border=false" height="150" />
+  </a>
+  <a href="https://github.com/sarvesh-official">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-official&layout=compact&theme=dracula&hide_border=false" height="150" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
 ![Snake animation](https://github.com/sarvesh-official/sarvesh-official/blob/output/snake.svg)
+
+---
+
+## 🌐 Links
+
+- 🌐 Portfolio → https://sarvee.dev  
+- 💼 LinkedIn → https://www.linkedin.com/in/sarvesh--p  
+- 🧑‍💻 GitHub → https://github.com/sarvesh-official  
+- 🐦 X → https://x.com/Sarvesh_Off  
+
+---
+
+## 🧠 Currently Exploring
+
+- System Design (scaling to millions)  
+- Advanced DSA  
+- AI agents + local models  
+- High-performance backend  
+
+---
+
+⭐ *I build fast. I ship real products. I care about impact.*
