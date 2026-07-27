@@ -1,4 +1,4 @@
-# Hey, I'm Sarvesh
+# Hey, I'm [Sarvesh](https://sarvee.in)
 
 Building AI-powered products used by 3k+ users.  
 Data & AI Engineer | Real-time Data Pipelines | LLM Systems  
@@ -113,6 +113,7 @@ I build production-grade systems, not just projects.
 ## Links
 
 - Portfolio: [sarvee.in](https://sarvee.in)
+- One-page portfolio: [sarvee.page](https://sarvee.page)
 - LinkedIn: [linkedin.com/in/sarvesh--p](https://www.linkedin.com/in/sarvesh--p)
 - GitHub: [github.com/sarvesh-official](https://github.com/sarvesh-official)
 - YouTube: [@i_am_sarvesh](https://www.youtube.com/@i_am_sarvesh)
