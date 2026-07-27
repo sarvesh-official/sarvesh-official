@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Sarvesh  
 
 🚀 **Building AI-powered products used by 3k+ users**  
-💻 Full Stack Engineer | AI Systems | Real-time Apps  
-⚡ Ex-SDE Intern @ Lowe’s | Founding Engineer @ Pallo  
+💻 Data & AI Engineer | Real-time Data Pipelines | LLM Systems  
+⚡ Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo  
 
 ---
 
@@ -19,7 +19,7 @@ I build **production-grade systems**, not just projects.
 - ⚡ Ship AI-powered apps with real users  
 - 🧩 Design scalable backend + system architecture  
 - 🤖 Work with LLMs (multi-provider + fallback systems)  
-- 🔄 Build real-time systems (WebSockets, Supabase Realtime)  
+- 🔄 Build real-time data pipelines (Kafka, Flink SQL, WebSockets)  
 
 ---
 
@@ -44,6 +44,7 @@ I build **production-grade systems**, not just projects.
 - AI tutor with document chat + OCR  
 - Course generation + quizzes  
 - Built with Next.js + LangChain  
+- 🔗 [piper-ai.vercel.app](https://piper-ai.vercel.app)
 
 ---
 
@@ -55,31 +56,32 @@ I build **production-grade systems**, not just projects.
 
 ### ⚡ Kill Switch (VS Code Extension)
 - Kill processes running on ports instantly  
-- Published on VS Code Marketplace  
+- 160+ installs on VS Code Marketplace  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Apache Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
 </div>
 
 ---
@@ -88,8 +90,9 @@ I build **production-grade systems**, not just projects.
 
 - 🚀 3k+ users globally  
 - ⚡ 500+ daily active users  
-- 📊 +60% test coverage (Lowe’s)  
+- 📊 +60% test coverage (Lowe's)  
 - 🧹 Reduced duplication 13% → 2.5%  
+- 🔧 160+ installs on VS Code Marketplace  
 
 ---
 
@@ -117,18 +120,19 @@ I build **production-grade systems**, not just projects.
 
 ## 🌐 Links
 
-- 🌐 Portfolio → https://sarvee.dev  
-- 💼 LinkedIn → https://www.linkedin.com/in/sarvesh--p  
-- 🧑‍💻 GitHub → https://github.com/sarvesh-official  
-- 🐦 X → https://x.com/Sarvesh_Off  
+- 🌐 Portfolio → [sarvee.page](https://sarvee.page)  
+- 💼 LinkedIn → [linkedin.com/in/sarvesh--p](https://www.linkedin.com/in/sarvesh--p)  
+- 🧑‍💻 GitHub → [github.com/sarvesh-official](https://github.com/sarvesh-official)  
+- 🎥 YouTube → [@i_am_sarvesh](https://www.youtube.com/@i_am_sarvesh)  
+- 🐦 X → [x.com/Sarvesh_Off](https://x.com/Sarvesh_Off)  
 
 ---
 
 ## 🧠 Currently Exploring
 
+- Real-time stream processing (Flink SQL, Kafka)  
 - System Design (scaling to millions)  
-- Advanced DSA  
-- AI agents + local models  
+- On-device LLMs & AI agents  
 - High-performance backend  
 
 ---
