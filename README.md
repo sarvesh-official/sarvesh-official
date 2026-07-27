@@ -120,6 +120,10 @@ I build production-grade systems, not just projects.
 
 ---
 
+## Currently Building
+
+- [Heedly](https://www.linkedin.com/posts/sarvesh--p_buildinpublic-android-ai-ugcPost-7483883593635758081-q1Mz/) - On-device AI notification classifier for Android using Gemma via LiteRT-LM. Classifies notifications as ALERT, SHOW, or DISMISS without cloud dependency. Building in public.
+
 ## Currently Exploring
 
 - Real-time stream processing (Flink SQL, Kafka)
