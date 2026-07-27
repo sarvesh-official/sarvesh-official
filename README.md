@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Sarvesh  
+# Hey, I'm Sarvesh
 
-🚀 **Building AI-powered products used by 3k+ users**  
-💻 Data & AI Engineer | Real-time Data Pipelines | LLM Systems  
-⚡ Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo  
+Building AI-powered products used by 3k+ users.  
+Data & AI Engineer | Real-time Data Pipelines | LLM Systems  
+Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo
 
 ---
 
@@ -12,55 +12,47 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
-I build **production-grade systems**, not just projects.
+I build production-grade systems, not just projects.
 
-- ⚡ Ship AI-powered apps with real users  
-- 🧩 Design scalable backend + system architecture  
-- 🤖 Work with LLMs (multi-provider + fallback systems)  
-- 🔄 Build real-time data pipelines (Kafka, Flink SQL, WebSockets)  
-
----
-
-## 🏗️ Featured Work
-
-### 🚀 Pallo (AI Learning Platform)
-- Built AI document editor (pagination + PDF export)  
-- Designed **LLM fallback architecture** → improved reliability  
-- Real-time collaboration (study groups, quizzes)  
-- 📈 Impact: **3k+ users, 500+ DAU**
+- Ship AI-powered apps with real users
+- Design scalable backend + system architecture
+- Work with LLMs (multi-provider + fallback systems)
+- Build real-time data pipelines (Kafka, Flink SQL, WebSockets)
 
 ---
 
-### 📊 MetricLens
-- Converts PostHog analytics → Slack insights  
-- AWS EC2 + PM2 deployment  
-- Focus: observability + decision-making  
+## Featured Work
+
+### Pallo (AI Learning Platform)
+- Built AI document editor with pagination and PDF export
+- Designed LLM fallback architecture to improve reliability
+- Real-time collaboration (study groups, quizzes)
+- Impact: 3k+ users, 500+ DAU
+
+### MetricLens
+- Converts PostHog analytics into Slack insights
+- AWS EC2 + PM2 deployment
+- Focus: observability and decision-making
+
+### Piper AI
+- AI tutor with document chat and OCR
+- Course generation and quizzes
+- Built with Next.js and LangChain
+- Live: [piper-ai.vercel.app](https://piper-ai.vercel.app)
+
+### Roomble
+- Realtime room-based chat system
+- WebSockets and multi-user sync
+
+### Kill Switch (VS Code Extension)
+- Kill processes running on ports instantly
+- 160+ installs on VS Code Marketplace
 
 ---
 
-### 🧠 Piper AI
-- AI tutor with document chat + OCR  
-- Course generation + quizzes  
-- Built with Next.js + LangChain  
-- 🔗 [piper-ai.vercel.app](https://piper-ai.vercel.app)
-
----
-
-### 💬 Roomble
-- Realtime room-based chat system  
-- WebSockets + multi-user sync  
-
----
-
-### ⚡ Kill Switch (VS Code Extension)
-- Kill processes running on ports instantly  
-- 160+ installs on VS Code Marketplace  
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -86,17 +78,17 @@ I build **production-grade systems**, not just projects.
 
 ---
 
-## 📈 Impact
+## Impact
 
-- 🚀 3k+ users globally  
-- ⚡ 500+ daily active users  
-- 📊 +60% test coverage (Lowe's)  
-- 🧹 Reduced duplication 13% → 2.5%  
-- 🔧 160+ installs on VS Code Marketplace  
+- 3k+ users globally
+- 500+ daily active users
+- +60% test coverage (Lowe's)
+- Reduced code duplication 13% to 2.5%
+- 160+ installs on VS Code Marketplace
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/sarvesh-official">
@@ -112,29 +104,29 @@ I build **production-grade systems**, not just projects.
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 ![Snake animation](https://github.com/sarvesh-official/sarvesh-official/blob/output/snake.svg)
 
 ---
 
-## 🌐 Links
+## Links
 
-- 🌐 Portfolio → [sarvee.page](https://sarvee.page)  
-- 💼 LinkedIn → [linkedin.com/in/sarvesh--p](https://www.linkedin.com/in/sarvesh--p)  
-- 🧑‍💻 GitHub → [github.com/sarvesh-official](https://github.com/sarvesh-official)  
-- 🎥 YouTube → [@i_am_sarvesh](https://www.youtube.com/@i_am_sarvesh)  
-- 🐦 X → [x.com/Sarvesh_Off](https://x.com/Sarvesh_Off)  
-
----
-
-## 🧠 Currently Exploring
-
-- Real-time stream processing (Flink SQL, Kafka)  
-- System Design (scaling to millions)  
-- On-device LLMs & AI agents  
-- High-performance backend  
+- Portfolio: [sarvee.in](https://sarvee.in)
+- LinkedIn: [linkedin.com/in/sarvesh--p](https://www.linkedin.com/in/sarvesh--p)
+- GitHub: [github.com/sarvesh-official](https://github.com/sarvesh-official)
+- YouTube: [@i_am_sarvesh](https://www.youtube.com/@i_am_sarvesh)
+- X: [x.com/Sarvesh_Off](https://x.com/Sarvesh_Off)
 
 ---
 
-⭐ *I build fast. I ship real products. I care about impact.*
+## Currently Exploring
+
+- Real-time stream processing (Flink SQL, Kafka)
+- System Design (scaling to millions)
+- On-device LLMs and AI agents
+- High-performance backend
+
+---
+
+I build fast. I ship real products. I care about impact.
