@@ -92,13 +92,13 @@ I build production-grade systems, not just projects.
 
 <div align="center">
   <a href="https://github.com/sarvesh-official">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-official&show_icons=true&theme=dracula&hide_border=false" height="150" />
+    <img src="https://sarvesh-github-stats.vercel.app/api?username=sarvesh-official&show_icons=true&theme=dracula&hide_border=false" height="150" />
   </a>
   <a href="https://github.com/sarvesh-official">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-official&theme=radical&hide_border=false" height="150" />
   </a>
   <a href="https://github.com/sarvesh-official">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-official&layout=compact&theme=dracula&hide_border=false" height="150" />
+    <img src="https://sarvesh-github-stats.vercel.app/api/top-langs?username=sarvesh-official&layout=compact&theme=dracula&hide_border=false" height="150" />
   </a>
 </div>
 
