@@ -10,47 +10,6 @@ Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo
 ![GitHub followers](https://img.shields.io/github/followers/sarvesh-official?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sarvesh-official?style=social)
 
----
-
-## What I Do
-
-I build production-grade systems, not just projects.
-
-- Ship AI-powered apps with real users
-- Design scalable backend + system architecture
-- Work with LLMs (multi-provider + fallback systems)
-- Build real-time data pipelines (Kafka, Flink SQL, WebSockets)
-
----
-
-## Featured Work
-
-### Pallo (AI Learning Platform)
-- Built AI document editor with pagination and PDF export
-- Designed LLM fallback architecture to improve reliability
-- Real-time collaboration (study groups, quizzes)
-- Impact: 3k+ users, 500+ DAU
-
-### MetricLens
-- Converts PostHog analytics into Slack insights
-- AWS EC2 + PM2 deployment
-- Focus: observability and decision-making
-
-### Piper AI
-- AI tutor with document chat and OCR
-- Course generation and quizzes
-- Built with Next.js and LangChain
-- Live: [piper-ai.vercel.app](https://piper-ai.vercel.app)
-
-### Roomble
-- Realtime room-based chat system
-- WebSockets and multi-user sync
-
-### Kill Switch (VS Code Extension)
-- Kill processes running on ports instantly
-- 160+ installs on VS Code Marketplace
-
----
 
 ## Tech Stack
 
