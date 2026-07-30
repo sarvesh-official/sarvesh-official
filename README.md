@@ -51,7 +51,7 @@ Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo
 
 <div align="center">
   <a href="https://github.com/sarvesh-official">
-    <img src="https://sarvesh-gh-stats.vercel.app/api/streak?username=sarvesh-official&theme=radical" height="150" />
+    <img src="https://sarvesh-streak-stats.vercel.app/?user=sarvesh-official&theme=radical&hide_border=false" height="150" />
   </a>
 </div>
 
