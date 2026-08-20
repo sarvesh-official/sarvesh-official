@@ -51,7 +51,7 @@ Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo
 
 <div align="center">
   <a href="https://github.com/sarvesh-official">
-    <img src="https://sarvesh-streak-stats.vercel.app/?user=sarvesh-official&theme=radical&hide_border=false" height="150" />
+    <img src="https://sarvesh-streak-stats.vercel.app/?user=sarvesh-official&theme=radical&hide_border=false&v=2026" height="150" />
   </a>
 </div>
 
@@ -59,7 +59,7 @@ Associate AI Engineer Intern @ Lowe's | Ex-Founding Engineer @ Pallo
 
 ## Contribution Snake
 
-![Snake animation](https://github.com/sarvesh-official/sarvesh-official/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sarvesh-official/sarvesh-official/output/snake.svg)
 
 ---
 
