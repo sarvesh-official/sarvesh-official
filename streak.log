@@ -1,0 +1,25 @@
+# Daily Activity Log
+
+## 2026-08-30
+- Bug fixes and hotkey improvements in CoreAudioHelper
+- Gemini 8-model fallback chain implementation
+
+## 2026-08-31
+- Scroll hotkey fixes for click-through mode
+- Code block horizontal scroll support
+
+## 2026-09-01
+- macOS stealth feature compatibility fixes
+- SystemService app build and install
+
+## 2026-09-02
+- Alt-based hotkeys to avoid detection
+- Horizontal scrollbar visibility fixes
+
+## 2026-09-03
+- Code review and refactoring
+- Documentation updates
+
+## 2026-09-04
+- Streak stats debugging
+- Profile README updates
